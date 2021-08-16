@@ -18,8 +18,12 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+a:visited {
     color: blanchedalmond;
+}
+
+a:hover {
+    color: rgb(148, 37, 37);
 }
 
 ul {
